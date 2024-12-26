@@ -8,6 +8,7 @@
   <img src="https://streak-stats.demolab.com?user=iampriyanshusingh&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="155" alt="streak graph"  />
 </div>
 
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
@@ -52,6 +53,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="30" alt="facebook logo"  />
   </a>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/iampriyanshusingh/count.svg?"  />
