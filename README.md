@@ -6,7 +6,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iampriyanshusingh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="155" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=iampriyanshusingh&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="155" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iampriyanshusingh&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="270" alt="activity-graph graph"  />
 </div>
 
 
@@ -53,8 +52,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="30" alt="facebook logo"  />
   </a>
 </div>
-
-<img src="https://raw.githubusercontent.com/iampriyanshusingh/iampriyanshusingh/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/iampriyanshusingh/count.svg?"  />
