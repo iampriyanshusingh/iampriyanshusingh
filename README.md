@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋! My name is Priyanshu !</h1>
 
-##
+#
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iampriyanshusingh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="155" alt="languages graph"  />
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
 </div>
 
-##
+#
 <div align="center">
   <a href="https://instagram.com/iamparikshitsingh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
