@@ -1,14 +1,11 @@
 
 <h1 align="center">Hi 👋! My name is Priyanshu !</h1>
-
-#
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iampriyanshusingh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="155" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=iampriyanshusingh&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="155" alt="streak graph"  />
 </div>
 
-<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
@@ -62,4 +59,3 @@
 
 <img src="https://raw.githubusercontent.com/iampriyanshusingh/iampriyanshusingh/output/snake.svg" alt="Snake animation" />
 
-###
