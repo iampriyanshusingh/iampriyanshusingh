@@ -29,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
 </div>
 
+<br>
+
 #
 <div align="center">
   <a href="https://instagram.com/iamparikshitsingh/" target="_blank">
